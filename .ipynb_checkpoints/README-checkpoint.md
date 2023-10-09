@@ -5,7 +5,7 @@ Code of Conduct:<br>
 To find our code of conduct, please press this link<br>
 
 License:<br>
-All of our code is licensed under the following license<br>
+All of our code is licensed under the following license [License](https://github.com/colegoucher/Lab-6/blob/master/LICENSE.md)
 
 
 Group Members:<br>
